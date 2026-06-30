@@ -1,0 +1,41 @@
+{
+  "name": "@kirkw/vue3-image-hotzone",
+  "version": "1.0.0",
+  "description": "A Vue 3 component for creating image hotzones with drag, resize and move support",
+  "main": "dist/vue3-image-hotzone.umd.js",
+  "module": "dist/vue3-image-hotzone.es.js",
+  "files": [
+    "dist",
+    "src",
+    "README.md"
+  ],
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "keywords": [
+    "vue",
+    "vue3",
+    "image",
+    "hotzone",
+    "hotspot",
+    "image-map",
+    "image-annotation",
+    "vue-component",
+    "composition-api"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "peerDependencies": {
+    "vue": "^3.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "vite": "^4.0.0"
+  }
+}
