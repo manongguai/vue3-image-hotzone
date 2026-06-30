@@ -546,7 +546,7 @@ declare module 'vue3-image-hotzone' {
   
   export default ImageHotzone
 }
-
+```
 浏览器兼容性
 Chrome 60+
 
