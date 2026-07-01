@@ -1,6 +1,6 @@
 {
   "name": "@kirkw/vue3-image-hotzone",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Vue 3 component for creating image hotzones with drag, resize and move support",
   "main": "dist/vue3-image-hotzone.umd.js",
   "module": "dist/vue3-image-hotzone.es.js",
@@ -20,12 +20,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/manongguai/vue2-image-hotzone.git"
+    "url": "https://github.com/manongguai/vue3-image-hotzone.git"
   },
   "bugs": {
-    "url": "https://github.com/manongguai/vue2-image-hotzone/issues"
+    "url": "https://github.com/manongguai/vue3-image-hotzone/issues"
   },
-  "homepage": "https://github.com/manongguai/vue2-image-hotzone#readme",
+  "homepage": "https://github.com/manongguai/vue3-image-hotzone#readme",
   "keywords": [
     "vue",
     "vue3",
